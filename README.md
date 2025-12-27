@@ -34,4 +34,10 @@ chmod +x install.sh
 ./install.sh
 
 [+] Select Your wallpaper from Folder
+--
+[+} Wish to Add Pokemon on Shell ?
+cd pokemon-colorscript && install.sh
+then (Add this to zsh.conf at last )
+pokemon-colorscripts -r --no-title
+
 @localh0ste

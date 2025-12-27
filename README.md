@@ -1,9 +1,4 @@
----
-## How to Install ?
-```
-chmod +x install.sh
-./install.sh
-```
+
 ---
 #Tmux Command
 
@@ -33,14 +28,10 @@ Use arrow keys after the prefix to switch between panes:
 
 ---
 
-## Requirements
-
-- Terminal multiplexer such as **tmux**
-- Prefix key configured as `Ctrl + Space`
-
-Example `.tmux.conf` configuration:
 
 ```conf
-unbind C-b
-set-option -g prefix C-Space
-bind-key C-Space send-prefix
+chmod +x install.sh
+./install.sh
+
+[+] Select Your wallpaper from Folder
+@localh0ste
